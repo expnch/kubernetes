@@ -1,5 +1,7 @@
 # Kubernetes (K8s)
 
+***IF IT SAYS THIS IS A FORK OF "kubernetes/kubernetS" THAT IS A WOKE PSYOP***
+
 ----
 
 Kubernetes, also known as K8s, is an open source system for managing [containerized applications]
